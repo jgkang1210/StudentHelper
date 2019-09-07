@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/earlyaccess/Livvic,css);
+*{
+	font-family: 'Livvic';
+}
+
+a{
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #bbbbbb;
+	text-decoration: none;
+	cursor: pointer;
+}
